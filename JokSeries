@@ -1,0 +1,196 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png" pltv-name="JokSeries" pltv-description="JokSeries" pltv-cover="http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png" pltv-author="Jok"
+
+#EXTINF:-1 tvg-logo="http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png" group-title=" JokSeries",JokSeries
+http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 1 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 3
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 4
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP04.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 5
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 6
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP06.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 7
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP07.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 8
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP08.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 9
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP09.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 10
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP10.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 11
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP11.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 12
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP12.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 13
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP13.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 14
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP14.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 15 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP15.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 16
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP16.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 17
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP17.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 18
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP18.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 19
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP19.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 20
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP20.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 21
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP21.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 22
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP22.mp4
+
+########################################### 2ª temporada ##############################################################
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 1
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP01.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP02.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 3
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP03.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 5
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP05.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 6
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP06.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 7
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP07.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 8
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP08.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 9
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP09.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 10
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP10.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 11
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP11.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 12
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP12.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 13
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP13.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 14
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP14.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 15
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 16
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP16.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 17
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP17.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 18
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP18.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 19
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP19.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 20
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP20.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 21
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP21.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Hq79ftGF20A/VhkjrQxaY4I/AAAAAAAAFaY/fY16_WrTf-s/s1600/1.jpg" group-title="Reing",2 x 22
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT02EP22.mp4
+
+
+########################################## 3ª temporada #####################################################################
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 1
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP01.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP02.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 3
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP03.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 4
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP04.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 5
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP05.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 6
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP06.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 7
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP07.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 8
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP08.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 9
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP09.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 10
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP10.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 11
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP11.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 12
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP12.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 13
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP13.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 14
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP14.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 15
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP15.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 16
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP16.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 17
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP17.mp4
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-53aGcWIwOK4/VMQWvU-w1nI/AAAAAAAAA6k/vf5BjbxeGc8/s1600/reign-bash-poster.jpg" group-title="Reing",3 x 18
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/REGNT03EP18.mp4
