@@ -341,6 +341,11 @@ http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/ONCUPATMT01EP21.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-HvlPa5rkKCA/VaP6729HNqI/AAAAAAAAFZk/_RI13t9wmZU/s1600/once-upon-a-time-netflix.jpg" group-title="Once Upon A Time",1 x 22
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/ONCUPATMT01EP22.mp4
 
+############################################################# 2ª temporada ##########################################################
+
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/233/42144233.jpg" group-title="Once Upon A Time",2 x 1
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/ONCUPATMT02EP01.mp4
+
 
 
 
