@@ -693,5 +693,35 @@ http://cdnv3.ec.cx/RedeCanais/RCServer12/ondemand/ONCUPATMT06EP22.mp4
 #################################################################### fim ################################################################
                                                    Rick and Morty 
   
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 1
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 3
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP03.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 4
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP04.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 5
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 6
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP06.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 7
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP07.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 8
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP08.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 9
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP09.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 10
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rick_and_Morty_season_1.png/220px-Rick_and_Morty_season_1.png" group-title="Rick and Morty ",1 x 11
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/RCKANDMRTYT01EP11.mp4
