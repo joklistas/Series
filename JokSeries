@@ -5,6 +5,16 @@
 #EXTINF:-1 tvg-logo="http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png" group-title=" JokSeries",JokSeries
 http://68.media.tumblr.com/73b853db627a1fe24d9d857965ef3017/tumblr_ov782mJm7L1wzng5xo1_250.png
 
+########################################### filmes hd #######################################################
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Trftsth-64C6oTzFKYp4BECElEE=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/06/spiderman_homecoming.jpg" group-title="Reing",
+http://assistir.querofilmehd.com/filmes/Spider-Man.Homecoming.2017.1080p.HDRip.AC3.H264.Dual-floyd.mp4
+
+
+
+
+################################################## fim ####################################################
+
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/02/25/11/01/029585.jpg" group-title="Reing",1 x 1 
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCServer10/ondemand/REGNT01EP01.mp4
 
